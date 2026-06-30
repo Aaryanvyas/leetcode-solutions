@@ -5,10 +5,12 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Counting
 |  |
 | ------- |
@@ -53,4 +55,8 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
