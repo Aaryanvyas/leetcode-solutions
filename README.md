@@ -97,6 +97,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1331-rank-transform-of-an-array](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
@@ -111,6 +112,7 @@ Happy coding! 🚀
 ## Hash Table
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
@@ -120,4 +122,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
