@@ -9,54 +9,55 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
     vector<vector<int>> verticalTraversal(TreeNode* root) {
 
-        if(root == NULL)
-            return {};
+        map<int, map<int, multiset<int>>> mp;
+        vector<vector<int>> result;
 
-        map<int, map<int, multiset<int>>> nodes;
+        if(root==NULL){
+            return result;
+        }
 
-        queue<pair<TreeNode*, pair<int,int>>> q;
+        queue<pair<pair<int, int>, TreeNode*>> q;
+        q.push({{0, 0}, root});
 
-        q.push({root,{ 0,0}});
+        while(!q.empty()){
 
-
-        while(!q.empty()) {
-
-            auto p = q.front();
-
+            int x= q.front().first.first;
+            int y= q.front().first.second;
+            TreeNode* currNode= q.front().second;
+            mp[y][x].insert(currNode->val);
             q.pop();
 
-            TreeNode* node = p.first;
+            if(currNode->left!=NULL){q.push({{x+1, y-1}, currNode->left});}
+            if(currNode->right!=NULL){q.push({{x+1, y+1}, currNode->right});}
 
-            int x = p.second.first;
-            
-            int y = p.second.second;
-
-            nodes[x][y].insert(node->val);
-
-            if(node->left)
-                q.push({node->left,{x - 1, y + 1 }});
-
-            if(node->right)
-                q.push({node->right,{ x + 1 , y + 1 }});
         }
 
-        vector<vector<int>> ans;
-
-        for(auto p : nodes){
-
-            vector<int> col;
-
-            for(auto q : p.second){
-                col.insert(col.end(), q.second.begin(), q.second.end());
+        for(auto &[y, rows]: mp){
+            vector<int> vec;
+            for(auto &[x,currSet]: rows){
+                for(int value: currSet){
+                    vec.push_back(value);
+                }
             }
-
-            ans.push_back(col);
+            result.push_back(vec);
         }
 
-        return ans;
+        return result;
+        
     }
 };
