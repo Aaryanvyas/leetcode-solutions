@@ -59,6 +59,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0113-path-sum-ii) |
@@ -96,6 +97,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0113-path-sum-ii) |
@@ -120,6 +122,7 @@ Happy coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1260-shift-2d-grid](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -130,6 +133,7 @@ Happy coding! 🚀
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -141,6 +145,7 @@ Happy coding! 🚀
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0349-intersection-of-two-arrays](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
