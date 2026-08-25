@@ -179,6 +179,7 @@ Happy coding! 🚀
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -213,6 +214,7 @@ Happy coding! 🚀
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Union-Find
 |  |
 | ------- |
