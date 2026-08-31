@@ -279,6 +279,7 @@ Happy coding! 🚀
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -290,6 +291,7 @@ Happy coding! 🚀
 | [0094-binary-tree-inorder-traversal](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
