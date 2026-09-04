@@ -187,6 +187,7 @@ Happy coding! 🚀
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -321,6 +322,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [3903-smallest-stable-index-i](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Sliding Window
 |  |
 | ------- |
