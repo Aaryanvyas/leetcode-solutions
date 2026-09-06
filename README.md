@@ -183,6 +183,7 @@ Happy coding! 🚀
 | [1480-running-sum-of-1d-array](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -274,6 +275,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Bit Manipulation
 |  |
 | ------- |
