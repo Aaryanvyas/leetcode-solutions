@@ -294,6 +294,7 @@ Happy coding! 🚀
 | [0225-implement-stack-using-queues](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0901-online-stock-span](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Stack
 |  |
 | ------- |
@@ -308,6 +309,7 @@ Happy coding! 🚀
 | [0232-implement-queue-using-stacks](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Linked List
 |  |
@@ -337,6 +339,7 @@ Happy coding! 🚀
 | [0042-trapping-rain-water](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Iterator
 |  |
@@ -355,4 +358,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
