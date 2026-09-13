@@ -176,6 +176,7 @@ Happy coding! 🚀
 | [0496-next-greater-element-i](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0739-daily-temperatures](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -309,6 +310,7 @@ Happy coding! 🚀
 | [0232-implement-queue-using-stacks](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Linked List
@@ -339,6 +341,7 @@ Happy coding! 🚀
 | [0042-trapping-rain-water](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Iterator
