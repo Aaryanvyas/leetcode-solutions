@@ -4,9 +4,9 @@ public:
 
         string st;
 
-        for(char current : num) {
-
-            while(k > 0 && !st.empty() && st.back() > current) {
+        for(int i = 0; i< num.size(); i++){
+            char current = num[i];
+             while(k > 0 && !st.empty() && st.back() > current){
                 st.pop_back();
                 k--;
             }
@@ -14,23 +14,24 @@ public:
             st.push_back(current);
         }
 
-        // If removals are still left, remove from the end
-        while(k > 0) {
+    
+           
+
+      
+        while(k > 0){
             st.pop_back();
             k--;
         }
 
-        // Find first non-zero digit
+       
         int start = 0;
-        while(start < st.size() && st[start] == '0') {
+        while(start < st.size() && st[start] == '0'){
             start++;
         }
 
-        // Everything was zero
-        if(start == st.size()) {
+        if(start == st.size()){
             return "0";
         }
-
         return st.substr(start);
     }
 };
