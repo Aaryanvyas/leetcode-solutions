@@ -159,6 +159,7 @@ Happy coding! 🚀
 | [0020-valid-parentheses](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0402-remove-k-digits](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Backtracking
@@ -311,6 +312,7 @@ Happy coding! 🚀
 | [0173-binary-search-tree-iterator](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0735-asteroid-collision) |
@@ -343,6 +345,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -373,4 +376,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
