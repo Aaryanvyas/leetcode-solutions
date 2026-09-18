@@ -380,4 +380,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0402-remove-k-digits) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
