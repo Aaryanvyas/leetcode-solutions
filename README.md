@@ -188,6 +188,7 @@ Happy coding! 🚀
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -225,6 +226,7 @@ Happy coding! 🚀
 | [1331-rank-transform-of-an-array](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Union-Find
@@ -249,6 +251,7 @@ Happy coding! 🚀
 | ------- |
 | [1291-sequential-digits](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -384,4 +387,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0175-combine-two-tables) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
