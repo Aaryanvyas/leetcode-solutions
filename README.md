@@ -1,28 +1,59 @@
-# 🌲 LeetCode Solutions
+# 🌲 LeetCode Solutions & Striver's A2Z DSA Journey
 
-A personal, organized log of LeetCode solutions in C++ and SQL with day-wise progress, approach notes, and patterns.
-
----
-
-## 📊 Summary
-
-- 🟢 **Easy:** 49
-- 🟡 **Medium:** 30
-- 🔴 **Hard:** 4
-- **Total Solved:** 83 (78 C++, 5 SQL)
+A personal, organized log of LeetCode solutions in C++ & SQL tracking progress through **Striver's A2Z DSA Sheet**, with day-wise progress logs, pattern breakdowns, and approach notes.
 
 ---
 
-## 🎯 Currently Doing
+## 📊 Striver's A2Z DSA Sheet Progress
 
-- **Current Topic:** Sliding Window & Two Pointers
-- **Latest Solved:** [3. Longest Substring Without Repeating Characters](./0003-longest-substring-without-repeating-characters) (🟡 Medium)
-- **Up Next:**
-  - [ ] [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
-  - [ ] [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
-  - [ ] [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
-  - [ ] [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
-- **Recently Completed:** Monotonic Stacks (Trapping Rain Water, Daily Temperatures, Stock Span, Asteroids, Remove K Digits) & Binary Trees / BSTs.
+| Topic | Progress | Status |
+| :--- | :---: | :---: |
+| 🔰 **Beginner Problems** | `60 / 83` | 🟡 In Progress |
+| 🔀 **Sorting** | `7 / 7` | 🟢 Completed |
+| 📦 **Arrays** | `21 / 32` | 🟡 In Progress |
+| 🔑 **Hashing** | `3 / 6` | 🟡 In Progress |
+| 🔎 **Binary Search** | `30 / 32` | 🟡 In Progress |
+| 🔤 **Strings (Basic & Medium)** | `1 / 7` | 🟡 In Progress |
+| 🔁 **Recursion** | `9 / 22` | 🟡 In Progress |
+| 🔗 **Linked-List** | `21 / 49` | 🟡 In Progress |
+| 🪟 **Sliding Window / 2 Pointer** | **`3 / 13`** | 🔥 **CURRENT FOCUS** |
+| 🥞 **Stack / Queues** | `22 / 31` | 🟡 In Progress |
+| 🌲 **Binary Trees** | `23 / 32` | 🟡 In Progress |
+| 🔍 **Binary Search Trees** | `8 / 15` | 🟡 In Progress |
+| ⚡ **Bit Manipulation** | `0 / 14` | ⏳ Upcoming |
+| 🎯 **Greedy Algorithms** | `0 / 14` | ⏳ Upcoming |
+| ⛰️ **Heaps** | `0 / 20` | ⏳ Upcoming |
+| 🕸️ **Graphs** | `0 / 46` | ⏳ Upcoming |
+| 🧩 **Dynamic Programming** | `0 / 53` | ⏳ Upcoming |
+| 🌳 **Tries** | `0 / 7` | ⏳ Upcoming |
+| 📜 **Strings (Advanced Algo)** | `0 / 9` | ⏳ Upcoming |
+| 🔢 **Maths** | `0 / 3` | ⏳ Upcoming |
+
+*Total LeetCode Submissions Synced in Repo:* **83** (🟢 49 Easy, 🟡 30 Medium, 🔴 4 Hard)
+
+---
+
+## 🎯 Currently Doing: Step 10 — Sliding Window & 2 Pointer (`3 / 13`)
+
+> **Active Module:** Striver's A2Z DSA Sheet — Step 10 (Sliding Window & Two Pointer Combined Problems)  
+> **Progress:** `3 / 13` Completed
+
+### 🔹 Medium Problems
+- [x] [3. Longest Substring Without Repeating Characters](./0003-longest-substring-without-repeating-characters) (🟢 Solved)
+- [ ] [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
+- [ ] [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
+- [ ] [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+- [ ] [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)
+- [ ] [1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)
+- [x] [1358. Number of Substrings Containing All Three Characters](./1358-number-of-substrings-containing-all-three-characters) (🟢 Solved)
+- [x] [1423. Maximum Points You Can Obtain from Cards](./1423-maximum-points-you-can-obtain-from-cards) (🟢 Solved)
+
+### 🔹 Hard Problems
+- [ ] [340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)
+- [ ] [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)
+- [ ] [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+- [ ] [727. Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/)
+- [ ] [159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)
 
 ---
 
@@ -116,26 +147,41 @@ A personal, organized log of LeetCode solutions in C++ and SQL with day-wise pro
 
 ---
 
-## 🧠 Approach & Pattern Notes
+---
 
-### 🪟 Sliding Window
-- **Dynamic Window (Substrings):** In problems like **LC 3 (Longest Substring Without Repeating Characters)**, maintain an array `lastIndex[256]` initialized to `-1`. When encountering a duplicate character at `right`, jump `left = lastIndex[s[right]] + 1` directly instead of shrinking one step at a time. Length is `right - left + 1`.
-- **Substring Counting Formula:** In **LC 1358 (Substrings with all 3 characters)**, as soon as `[left, right]` contains all required characters, every suffix extending from `right` to `n - 1` also contains all three characters. Add `(n - right)` to answer immediately, then shrink `left`.
-- **Fixed Window:** In **LC 643** and **LC 1423**, slide a window of size `k` by adding `nums[i]` and subtracting `nums[i - k]` in $O(1)$.
+## 🧠 Approach & Pattern Notes (Striver's Sliding Window Framework)
 
-### 🥞 Monotonic Stack
-- **Next Greater Element / Daily Temperatures (LC 739, 496, 503):** Maintain a monotonic decreasing stack of indices. While `nums[i] > nums[st.top()]`, pop and resolve answer for `st.top()`.
-- **Stock Span (LC 901):** Store `(price, span)` pairs. Pop smaller prices and aggregate their spans for amortized $O(1)$ lookup.
-- **Trapping Rain Water (LC 42):** Use two pointers `left` and `right`. Track `leftMax` and `rightMax`. Advance inward from the smaller max since water level is bounded by `min(leftMax, rightMax) - height[i]`.
-- **Remove K Digits (LC 402):** Greedy monotonic increasing stack. Pop `st.top() > digit` while `k > 0` to keep highest-value digits minimal.
+### 🪟 The 4 Sliding Window Archetypes
 
-### 🌲 Binary Trees & Tree DP
-- **Bottom-Up Postorder:** In **LC 543 (Diameter)** and **LC 124 (Maximum Path Sum)**, calculate subtree returns bottom-up. At each node, compute the turnaround path (`leftGain + rightGain + root->val`) to update a global max, but only return the single best branch (`max(leftGain, rightGain) + root->val`) to the parent. Disregard negative branches with `max(0, ...)`.
-- **Level Order (LC 102, 103):** Snapshot `int size = q.size()` at the start of each iteration to batch nodes level-by-level.
+1. **Constant / Fixed Window:**
+   - Window size `k` is fixed. Compute initial sum of first `k` elements.
+   - Slide window: `sum += nums[i] - nums[i - k]`.
+   - *Examples:* **LC 1423 (Maximum Points from Cards)** — leaving a contiguous window of size `n - k`, **LC 643 (Maximum Average Subarray I)**.
 
-### 🔍 Binary Search Trees (BST)
-- Inorder traversal of BST always visits nodes in strictly ascending sorted order.
-- **Deletion (LC 450):** If deleting a node with two children, replace its value with its inorder successor (minimum in right subtree) and recursively delete the successor.
+2. **Longest Subarray / Substring with Condition:**
+   - Expand `right` to include elements.
+   - When condition breaks (e.g. duplicate character, distinct count exceeds limit), shrink `left` until valid.
+   - *Optimization Trick (LC 3):* Instead of moving `left` by 1 with a hash set, maintain `lastIndex[256]` and jump `left = lastIndex[s[right]] + 1` directly in $O(1)$.
+   - *Length Formula:* `right - left + 1`.
+
+3. **Number of Subarrays with Condition:**
+   - **Type A (Substrings containing all condition):** Once `[left, right]` is valid, every extension up to the end of string is also valid. Add `+(n - right)` to answer immediately, then shrink `left` (e.g. **LC 1358**).
+   - **Type B (Exact count K):** Subarrays with exact sum/distinct count equal to K.
+     - `count(exact K) = count(at most K) - count(at most K - 1)`.
+     - Extremely clean technique used for **LC 930 (Binary Subarrays with Sum)**, **LC 1248 (Nice Subarrays)**, and **LC 992 (Subarrays with K Different Integers)**.
+
+4. **Shortest / Minimum Window with Condition:**
+   - Expand `right` until window satisfies the condition.
+   - Once valid, shrink `left` as much as possible while maintaining condition to minimize window length `right - left + 1` (e.g. **LC 76 Minimum Window Substring**).
+
+---
+
+### 🥞 Monotonic Stack & Tree Patterns (Previous Milestones)
+
+- **Monotonic Decreasing Stack (LC 739, 496, 503, 901):** Store indices in decreasing order. While `nums[i] > nums[st.top()]`, pop and resolve answer for `st.top()`.
+- **Trapping Rain Water (LC 42):** Two pointers inward contraction based on `min(leftMax, rightMax) - height[i]`.
+- **Tree DP Bottom-Up (LC 543, 124):** At each node, compute apex turnaround `leftGain + rightGain + root->val` to update global max, but return single best branch `max(leftGain, rightGain) + root->val` to parent. Disregard negative branches with `max(0, ...)`.
+- **BST Inorder Traversal:** Inorder traversal of BST always visits nodes in strictly ascending sorted order; deletion replaces node with its inorder successor.
 
 ---
 
