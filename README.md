@@ -2,9 +2,31 @@
 
 A personal, organized log of LeetCode solutions in C++ & SQL tracking progress through **Striver's A2Z DSA Sheet**, with day-wise progress logs, pattern breakdowns, and approach notes.
 
+<div align="center">
+
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-kqnlp8gYDy-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kqnlp8gYDy/)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Aaryanvyas-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aaryanvyas)
+
+**LeetCode Profile:** [@kqnlp8gYDy](https://leetcode.com/u/kqnlp8gYDy/) • **Global Solved:** 201 • 🏅 **100 Days Badge 2026** • 🏅 **50 Days Badge 2026**
+
+</div>
+
 ---
 
-## 📊 Striver's A2Z DSA Sheet Progress
+## 📊 Progress & Stats Overview
+
+<div align="center">
+
+| Metric | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
+| :--- | :---: | :---: | :---: | :---: |
+| **LeetCode Profile ([@kqnlp8gYDy](https://leetcode.com/u/kqnlp8gYDy/))** | **201** | **106** | **86** | **9** |
+| **Repository Synced Submissions** | **84** | **49** | **31** | **4** |
+
+</div>
+
+---
+
+## 🗺️ Striver's A2Z DSA Sheet Progress
 
 | Topic | Progress | Status |
 | :--- | :---: | :---: |
@@ -28,8 +50,6 @@ A personal, organized log of LeetCode solutions in C++ & SQL tracking progress t
 | 🌳 **Tries** | `0 / 7` | ⏳ Upcoming |
 | 📜 **Strings (Advanced Algo)** | `0 / 9` | ⏳ Upcoming |
 | 🔢 **Maths** | `0 / 3` | ⏳ Upcoming |
-
-*Total LeetCode Submissions Synced in Repo:* **84** (🟢 49 Easy, 🟡 31 Medium, 🔴 4 Hard)
 
 ---
 
