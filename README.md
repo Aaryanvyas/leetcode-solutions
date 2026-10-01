@@ -16,7 +16,7 @@ A personal, organized log of LeetCode solutions in C++ & SQL tracking progress t
 | 🔤 **Strings (Basic & Medium)** | `1 / 7` | 🟡 In Progress |
 | 🔁 **Recursion** | `9 / 22` | 🟡 In Progress |
 | 🔗 **Linked-List** | `21 / 49` | 🟡 In Progress |
-| 🪟 **Sliding Window / 2 Pointer** | **`3 / 13`** | 🔥 **CURRENT FOCUS** |
+| 🪟 **Sliding Window / 2 Pointer** | **`4 / 13`** | 🔥 **CURRENT FOCUS** |
 | 🥞 **Stack / Queues** | `22 / 31` | 🟡 In Progress |
 | 🌲 **Binary Trees** | `23 / 32` | 🟡 In Progress |
 | 🔍 **Binary Search Trees** | `8 / 15` | 🟡 In Progress |
@@ -29,18 +29,19 @@ A personal, organized log of LeetCode solutions in C++ & SQL tracking progress t
 | 📜 **Strings (Advanced Algo)** | `0 / 9` | ⏳ Upcoming |
 | 🔢 **Maths** | `0 / 3` | ⏳ Upcoming |
 
-*Total LeetCode Submissions Synced in Repo:* **83** (🟢 49 Easy, 🟡 30 Medium, 🔴 4 Hard)
+*Total LeetCode Submissions Synced in Repo:* **84** (🟢 49 Easy, 🟡 31 Medium, 🔴 4 Hard)
 
 ---
 
-## 🎯 Currently Doing: Step 10 — Sliding Window & 2 Pointer (`3 / 13`)
+## 🎯 Currently Doing: Step 10 — Sliding Window & 2 Pointer (`4 / 13`)
 
 > **Active Module:** Striver's A2Z DSA Sheet — Step 10 (Sliding Window & Two Pointer Combined Problems)  
-> **Progress:** `3 / 13` Completed
+> **Progress:** `4 / 13` Completed  
+> **Latest Solved:** [1004. Max Consecutive Ones III](./1004-max-consecutive-ones-iii) (🟡 Medium)
 
-### 🔹 Medium Problems
+### 🔹 Medium Problems (Lec 1)
 - [x] [3. Longest Substring Without Repeating Characters](./0003-longest-substring-without-repeating-characters) (🟢 Solved)
-- [ ] [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
+- [x] [1004. Max Consecutive Ones III](./1004-max-consecutive-ones-iii) (🟢 Solved)
 - [ ] [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
 - [ ] [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - [ ] [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)
@@ -48,7 +49,7 @@ A personal, organized log of LeetCode solutions in C++ & SQL tracking progress t
 - [x] [1358. Number of Substrings Containing All Three Characters](./1358-number-of-substrings-containing-all-three-characters) (🟢 Solved)
 - [x] [1423. Maximum Points You Can Obtain from Cards](./1423-maximum-points-you-can-obtain-from-cards) (🟢 Solved)
 
-### 🔹 Hard Problems
+### 🔹 Hard Problems (Lec 2)
 - [ ] [340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)
 - [ ] [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)
 - [ ] [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
@@ -144,8 +145,7 @@ A personal, organized log of LeetCode solutions in C++ & SQL tracking progress t
 | 81 | **Day 69** | 2026-09-29 | [643. Maximum Average Subarray I](./0643-maximum-average-subarray-i) | 🟢 Easy | Sliding Window | Fixed Window (Running Sum) | [C++](./0643-maximum-average-subarray-i/0643-maximum-average-subarray-i.cpp) |
 | 82 | **Day 69** | 2026-09-29 | [1423. Maximum Points You Can Obtain from Cards](./1423-maximum-points-you-can-obtain-from-cards) | 🟡 Med | Sliding Window | Fixed Window (Total - Min Subarray) | [C++](./1423-maximum-points-you-can-obtain-from-cards/1423-maximum-points-you-can-obtain-from-cards.cpp) |
 | 83 | **Day 70** | 2026-09-30 | [3. Longest Substring Without Repeating Characters](./0003-longest-substring-without-repeating-characters) | 🟡 Med | Sliding Window | Dynamic Window (Last-Seen Index Jump) | [C++](./0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.cpp) |
-
----
+| 84 | **Day 71** | 2026-10-02 | [1004. Max Consecutive Ones III](./1004-max-consecutive-ones-iii) | 🟡 Med | Sliding Window | Dynamic Window (At Most K Zeros) | [C++](./1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.cpp) |
 
 ---
 
@@ -160,9 +160,9 @@ A personal, organized log of LeetCode solutions in C++ & SQL tracking progress t
 
 2. **Longest Subarray / Substring with Condition:**
    - Expand `right` to include elements.
-   - When condition breaks (e.g. duplicate character, distinct count exceeds limit), shrink `left` until valid.
-   - *Optimization Trick (LC 3):* Instead of moving `left` by 1 with a hash set, maintain `lastIndex[256]` and jump `left = lastIndex[s[right]] + 1` directly in $O(1)$.
-   - *Length Formula:* `right - left + 1`.
+   - When condition breaks (e.g. zeros exceed `k`, duplicate character), shrink `left` until valid.
+   - *Optimization Trick (LC 1004 - Max Consecutive Ones III):* Instead of shrinking `while (zeros > k)` with a nested loop, we can simply advance `left` by 1 if invalid so the window size never decreases. Maximum length is `right - left + 1`.
+   - *Direct Jump Trick (LC 3):* Maintain `lastIndex[256]` and jump `left = lastIndex[s[right]] + 1` directly in $O(1)$.
 
 3. **Number of Subarrays with Condition:**
    - **Type A (Substrings containing all condition):** Once `[left, right]` is valid, every extension up to the end of string is also valid. Add `+(n - right)` to answer immediately, then shrink `left` (e.g. **LC 1358**).
