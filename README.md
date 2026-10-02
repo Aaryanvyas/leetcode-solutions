@@ -499,6 +499,7 @@ A personal, organized log of LeetCode solutions in C++ & SQL tracking progress t
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Lifting
@@ -578,6 +579,7 @@ A personal, organized log of LeetCode solutions in C++ & SQL tracking progress t
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bucket Sort
 |  |
