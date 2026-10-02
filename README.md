@@ -310,6 +310,7 @@ A personal, organized log of LeetCode solutions in C++ & SQL tracking progress t
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0402-remove-k-digits) |
@@ -318,6 +319,7 @@ A personal, organized log of LeetCode solutions in C++ & SQL tracking progress t
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Array
@@ -531,9 +533,11 @@ A personal, organized log of LeetCode solutions in C++ & SQL tracking progress t
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0022-generate-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 ## Data Stream
 |  |
