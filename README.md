@@ -331,6 +331,7 @@ A personal, organized log of LeetCode solutions in C++ & SQL tracking progress t
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0217-contains-duplicate](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -360,6 +361,7 @@ A personal, organized log of LeetCode solutions in C++ & SQL tracking progress t
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0347-top-k-frequent-elements](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -384,6 +386,7 @@ A personal, organized log of LeetCode solutions in C++ & SQL tracking progress t
 | [0049-group-anagrams](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0217-contains-duplicate](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -409,6 +412,7 @@ A personal, organized log of LeetCode solutions in C++ & SQL tracking progress t
 | ------- |
 | [0049-group-anagrams](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -462,6 +466,7 @@ A personal, organized log of LeetCode solutions in C++ & SQL tracking progress t
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Design
 |  |
@@ -574,4 +579,16 @@ A personal, organized log of LeetCode solutions in C++ & SQL tracking progress t
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
