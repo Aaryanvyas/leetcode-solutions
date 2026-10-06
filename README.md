@@ -343,6 +343,7 @@ A personal, organized log of LeetCode solutions in C++ & SQL tracking progress t
 | [0735-asteroid-collision](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -397,6 +398,7 @@ A personal, organized log of LeetCode solutions in C++ & SQL tracking progress t
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -522,6 +524,7 @@ A personal, organized log of LeetCode solutions in C++ & SQL tracking progress t
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -533,6 +536,7 @@ A personal, organized log of LeetCode solutions in C++ & SQL tracking progress t
 | [0424-longest-repeating-character-replacement](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
