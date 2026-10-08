@@ -317,6 +317,7 @@ A personal, organized log of LeetCode solutions in C++ & SQL tracking progress t
 | [0402-remove-k-digits](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0856-score-of-parentheses](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -509,6 +510,7 @@ A personal, organized log of LeetCode solutions in C++ & SQL tracking progress t
 | [0856-score-of-parentheses](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -571,6 +573,7 @@ A personal, organized log of LeetCode solutions in C++ & SQL tracking progress t
 | [0020-valid-parentheses](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
