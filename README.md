@@ -345,6 +345,7 @@ A personal, organized log of LeetCode solutions in C++ & SQL tracking progress t
 | [0739-daily-temperatures](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -402,6 +403,7 @@ A personal, organized log of LeetCode solutions in C++ & SQL tracking progress t
 | [0904-fruit-into-baskets](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -543,6 +545,7 @@ A personal, organized log of LeetCode solutions in C++ & SQL tracking progress t
 | [0643-maximum-average-subarray-i](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -614,6 +617,7 @@ A personal, organized log of LeetCode solutions in C++ & SQL tracking progress t
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Quickselect
 |  |
 | ------- |
