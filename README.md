@@ -312,6 +312,7 @@ A personal, organized log of LeetCode solutions in C++ & SQL tracking progress t
 | [0020-valid-parentheses](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0257-binary-tree-paths](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0402-remove-k-digits) |
@@ -391,6 +392,7 @@ A personal, organized log of LeetCode solutions in C++ & SQL tracking progress t
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -541,6 +543,7 @@ A personal, organized log of LeetCode solutions in C++ & SQL tracking progress t
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
