@@ -363,6 +363,7 @@ A personal, organized log of LeetCode solutions in C++ & SQL tracking progress t
 | [3483-unique-3-digit-even-numbers](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
@@ -435,6 +436,7 @@ A personal, organized log of LeetCode solutions in C++ & SQL tracking progress t
 | [1331-rank-transform-of-an-array](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Enumeration
 |  |
 | ------- |
@@ -599,6 +601,7 @@ A personal, organized log of LeetCode solutions in C++ & SQL tracking progress t
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Database
 |  |
 | ------- |
