@@ -487,6 +487,7 @@ A personal, organized log of LeetCode solutions in C++ & SQL tracking progress t
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0461-hamming-distance](https://github.com/Aaryanvyas/leetcode-solutions/tree/master/0461-hamming-distance) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
